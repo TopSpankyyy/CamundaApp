@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Camunda:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Camunda_jar</output-path>
+    <root id="archive" name="Camunda.jar">
+      <element id="module-output" name="Camunda" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-component-annotations/2.1.0/plexus-component-annotations-2.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-xml/3.0.0/plexus-xml-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/maven/maven-artifact/3.9.9/maven-artifact-3.9.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/sisu/org.eclipse.sisu.inject/0.9.0.M3/org.eclipse.sisu.inject-0.9.0.M3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-utils/3.5.1/plexus-utils-3.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/maven/maven-plugin-api/3.9.9/maven-plugin-api-3.9.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/maven/maven-model/3.9.9/maven-model-3.9.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-classworlds/2.8.0/plexus-classworlds-2.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/sisu/org.eclipse.sisu.plexus/0.9.0.M3/org.eclipse.sisu.plexus-0.9.0.M3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
